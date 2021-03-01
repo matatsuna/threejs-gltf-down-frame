@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "atob": "^2.1.2",
-    "three": "^0.110.0",
+    "three": "^0.125.0",
     "xmlhttprequest": "^1.8.0"
   },
   "browser": {
